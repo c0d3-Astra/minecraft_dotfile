@@ -1,185 +1,91 @@
-[17:41:49] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.15.11
-[17:41:49] [main/INFO]: Loading 4 mods:
+[13:03:57] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.15.11
+[13:03:58] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.15.11
 	   \-- mixinextras 0.3.5
 	- java 21
 	- minecraft 1.21
-[17:41:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/c0d3astra/Minecraft_Server/minecraft_dotfile/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[17:41:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:41:54] [main/INFO]: Loaded 1290 recipes
-[17:41:54] [main/INFO]: Loaded 1399 advancements
-[17:41:55] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:41:55] [Server thread/INFO]: Loading properties
-[17:41:55] [Server thread/INFO]: Default game type: SURVIVAL
-[17:41:55] [Server thread/INFO]: Generating keypair
-[17:41:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:41:55] [Server thread/INFO]: Using epoll channel type
-[17:41:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:41:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:41:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:41:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:41:55] [Server thread/INFO]: Preparing level "world"
-[17:41:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:41:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[17:41:56] [Server thread/INFO]: Time elapsed: 239 ms
-[17:41:56] [Server thread/INFO]: Done (1.065s)! For help, type "help"
-[17:42:40] [Server thread/INFO]: devil1012[/106.219.157.232:28601] logged in with entity id 5 at (284.5344921719094, -58.0, -1678.89129635826)
-[17:42:40] [Server thread/INFO]: devil1012 joined the game
-[17:44:07] [Server thread/INFO]: MakithAdrees[/49.36.144.181:50581] logged in with entity id 871 at (-272.897898889662, 63.085764312744146, -156.53531873778655)
-[17:44:07] [Server thread/INFO]: MakithAdrees joined the game
-[17:45:09] [Server thread/INFO]: [Not Secure] <devil1012> hey bud
-[17:45:12] [Server thread/INFO]: [Not Secure] <MakithAdrees> hi
-[17:45:33] [Server thread/INFO]: [Not Secure] <devil1012> my king how is your health i heard u got deeply wounded in the battle field
-[17:45:57] [Server thread/INFO]: [Not Secure] <MakithAdrees> the king may not live another day in battle
-[17:46:30] [Server thread/INFO]: [Not Secure] <devil1012> that is life my king
-[17:47:42] [Server thread/INFO]: [Not Secure] <devil1012> what are cords of our home?
-[17:47:49] [Server thread/INFO]: [Not Secure] <MakithAdrees> 0, 0?
-[17:48:03] [Server thread/INFO]: [Not Secure] <devil1012> nope that was where we started
-[17:48:17] [Server thread/INFO]: [Not Secure] <MakithAdrees> not a clue
-[17:48:23] [Server thread/INFO]: [Not Secure] <devil1012> i am preety sure it is around 200 -200
-[17:51:48] [Server thread/INFO]: [Not Secure] <devil1012> its been a week
-[17:51:51] [Server thread/INFO]: [Not Secure] <devil1012> time to come home
-[17:51:58] [Server thread/INFO]: [Not Secure] <MakithAdrees> nice
-[17:52:00] [Server thread/INFO]: [Not Secure] <MakithAdrees> now die
-[17:52:16] [Server thread/INFO]: [Not Secure] <devil1012> well with 30 diamonds and all diamonds equipment
-[17:52:22] [Server thread/INFO]: [Not Secure] <devil1012> that will be an honor
-[17:55:41] [Server thread/INFO]: arnesh22121[/106.219.121.131:21346] logged in with entity id 12182 at (-16.692344708447088, 84.0, -136.67709510370753)
-[17:55:41] [Server thread/INFO]: arnesh22121 joined the game
-[17:56:00] [Server thread/INFO]: [Not Secure] <arnesh22121> where
-[17:56:08] [Server thread/INFO]: [Not Secure] <devil1012> coming home from ground
-[17:56:17] [Server thread/INFO]: [Not Secure] <devil1012> around 1000 blocks away
-[17:56:31] [Server thread/INFO]: [Not Secure] <MakithAdrees> reached 1
-[17:56:35] [Server thread/INFO]: [Not Secure] <devil1012> no diamonds so far
-[17:58:39] [Server thread/INFO]: [Not Secure] <arnesh22121> bhai din kardo
-[17:58:51] [Server thread/INFO]: arnesh22121 was slain by Phantom
-[17:58:58] [Server thread/INFO]: [Not Secure] <devil1012> how rude of u to say
-[17:58:58] [Server thread/INFO]: [Not Secure] <MakithAdrees> oh no...
-[17:59:06] [Server thread/INFO]: [Not Secure] <devil1012> shit
-[17:59:15] [Server thread/WARN]: arnesh22121 moved too quickly! 1.0090918344375055,0.0,-17.296309208202217
-[17:59:25] [Server thread/INFO]: [Not Secure] <arnesh22121> bruhhh din nahi kar
-[17:59:37] [Server thread/INFO]: [Not Secure] <devil1012> i slpt right as u said it
-[17:59:52] [Server thread/INFO]: [Not Secure] <devil1012> i am underground so i ddnt know the situation
-[18:00:01] [Server thread/INFO]: [Not Secure] <arnesh22121> i got attaxked by 10 phantoms together
-[18:00:23] [Server thread/INFO]: [Not Secure] <MakithAdrees> i'm sorry..
-[18:00:36] [Server thread/INFO]: [Not Secure] <MakithAdrees> mai underground tha..
-[18:00:41] [Server thread/INFO]: [Not Secure] <MakithAdrees> bed nahi tha
-[18:00:41] [Server thread/INFO]: [Not Secure] <devil1012> sorry
-[18:00:43] [Server thread/INFO]: [Not Secure] <devil1012> new id?
-[18:00:57] [Server thread/INFO]: [Not Secure] <devil1012> or ask govind for a lifeline
-[18:01:04] [Server thread/INFO]: [Not Secure] <MakithAdrees> or debt
-[18:01:05] [Server thread/INFO]: [Not Secure] <devil1012> i think u have 10 diamonds to offer
-[18:01:13] [Server thread/INFO]: MakithAdrees has made the advancement [Diamonds!]
-[18:01:20] [Server thread/INFO]: [Not Secure] <arnesh22121> i have 15 idamonds
-[18:01:21] [Server thread/INFO]: [Not Secure] <devil1012> bruh
-[18:01:31] [Server thread/INFO]: [Not Secure] <devil1012> ok then 10 diamonds is the debt
-[18:01:35] [Server thread/INFO]: [Not Secure] <devil1012> arhan u agree?
-[18:01:44] [Server thread/INFO]: [Not Secure] <MakithAdrees> fine ig
-[18:01:56] [Server thread/INFO]: arnesh22121 lost connection: Disconnected
-[18:01:56] [Server thread/INFO]: arnesh22121 left the game
-[18:02:04] [Server thread/INFO]: [Not Secure] <devil1012> ah shit
-[18:03:02] [Server thread/INFO]: [Not Secure] <devil1012> u got how many diamonds my king?
-[18:03:30] [Server thread/INFO]: [Not Secure] <MakithAdrees> ded
-[18:04:05] [Server thread/INFO]: [Not Secure] <devil1012> how?
-[18:04:54] [Server thread/INFO]: [Not Secure] <MakithAdrees> 3 babies
-[18:05:10] [Server thread/INFO]: [Not Secure] <devil1012> ah......reminds me of technoblade
-[18:05:30] [Server thread/INFO]: [Not Secure] <devil1012> KILL THE BABIES DONT COME CLOSER
-[18:06:15] [Server thread/INFO]: [Not Secure] <devil1012> imma at 43 diamonds extra
-[18:07:15] [Server thread/INFO]: [Not Secure] <devil1012> why arent u doing strip mine in one block
-[18:07:20] [Server thread/INFO]: [Not Secure] <devil1012> at level -58
-[18:07:25] [Server thread/INFO]: [Not Secure] <MakithAdrees> dug into a cave
-[18:07:42] [Server thread/INFO]: [Not Secure] <devil1012> that makith my king
-[18:08:02] [Server thread/INFO]: [Not Secure] <MakithAdrees> is batra coming back?
-[18:08:56] [Server thread/INFO]: [Not Secure] <devil1012> he says he will wait 24 hours
-[18:09:01] [Server thread/INFO]: [Not Secure] <devil1012> he likes diamomnds
-[18:09:41] [Server thread/INFO]: [Not Secure] <MakithAdrees> i'll be back
-[18:09:48] [Server thread/INFO]: [Not Secure] <MakithAdrees> but wasn't it 48?
-[18:09:56] [Server thread/INFO]: [Not Secure] <devil1012> nah 24
-[18:10:10] [Server thread/INFO]: MakithAdrees lost connection: Disconnected
-[18:10:10] [Server thread/INFO]: MakithAdrees left the game
-[18:11:41] [Server thread/INFO]: There are 1 of a max of 20 players online: devil1012
-[18:23:08] [Server thread/INFO]: devil1012 lost connection: Disconnected
-[18:23:08] [Server thread/INFO]: devil1012 left the game
-[18:23:58] [Server thread/INFO]: devil1012[/106.219.157.232:18383] logged in with entity id 26930 at (150.50149873561705, -22.0, -812.0113838525732)
-[18:23:58] [Server thread/INFO]: devil1012 joined the game
-[18:24:21] [Server thread/INFO]: MakithAdrees[/49.36.144.181:58060] logged in with entity id 27721 at (-277.69999998807907, -17.0, -242.30000001192093)
-[18:24:21] [Server thread/INFO]: MakithAdrees joined the game
-[18:30:41] [Server thread/INFO]: [Not Secure] <devil1012> sleep?
-[18:30:47] [Server thread/INFO]: [Not Secure] <MakithAdrees> not home
-[18:30:52] [Server thread/INFO]: [Not Secure] <MakithAdrees> plus 50% sleep
-[18:32:49] [Server thread/INFO]: [Not Secure] <devil1012> it is raining now great monster on surface
-[18:32:55] [Server thread/INFO]: [Not Secure] <MakithAdrees> noice
-[18:33:02] [Server thread/INFO]: [Not Secure] <MakithAdrees> enjoy afterlife
-[18:33:41] [Server thread/INFO]: [Not Secure] <devil1012> 2 skele took 3 hearts in 1 seconds with full diamond
-[18:33:47] [Server thread/INFO]: [Not Secure] <MakithAdrees> ....
-[18:33:48] [Server thread/INFO]: [Not Secure] <MakithAdrees> damn
-[18:34:24] [Server thread/INFO]: [Not Secure] <devil1012> found a village btw
-[18:34:34] [Server thread/INFO]: [Not Secure] <MakithAdrees> i found plenty in my time
-[18:37:26] [Server thread/INFO]: [Not Secure] <devil1012> this villagher is bad
-[18:39:48] [Server thread/INFO]: [Not Secure] <devil1012> the nether portal look cool in shader
-[18:39:59] [Server thread/INFO]: [Not Secure] <MakithAdrees> u made a portal...
-[18:40:19] [Server thread/INFO]: [Not Secure] <devil1012> i mean it was almost competed
-[18:41:59] [Server thread/INFO]: [Not Secure] <devil1012> how hard is mending
-[18:43:30] [Server thread/INFO]: [Not Secure] <devil1012> my lord
-[18:43:58] [Server thread/INFO]: [Not Secure] <MakithAdrees> subject
-[18:47:30] [Server thread/INFO]: [Not Secure] <devil1012> now i have 9 stacks of bread :)
-[18:47:41] [Server thread/INFO]: [Not Secure] <MakithAdrees> enjoy poverty subject
-[18:50:07] [Server thread/INFO]: [Not Secure] <devil1012> dem
-[18:50:14] [Server thread/INFO]: [Not Secure] <devil1012> who is this working on iron farm
-[18:50:37] [Server thread/INFO]: [Not Secure] <devil1012> wait not iron this is raid farm :()
-[18:50:45] [Server thread/INFO]: [Not Secure] <MakithAdrees> 0-0
-[18:51:04] [Server thread/INFO]: [Not Secure] <devil1012> my king should i destory it
-[18:51:10] [Server thread/INFO]: [Not Secure] <devil1012> there are 4 emerald in it
-[18:51:15] [Server thread/INFO]: [Not Secure] <MakithAdrees> sabotage it
-[18:52:03] [Server thread/INFO]: [Not Secure] <devil1012> sleeo
-[18:52:04] [Server thread/INFO]: devil1012 lost connection: Disconnected
-[18:52:04] [Server thread/INFO]: devil1012 left the game
-[18:52:12] [Server thread/INFO]: [Not Secure] <MakithAdrees> i-
-[18:52:15] [Server thread/INFO]: [Not Secure] <MakithAdrees> i can't
-[18:55:22] [Server thread/INFO]: devil1012[/106.219.157.232:2817] logged in with entity id 53768 at (41.52397097917233, 84.0, -412.90514663939405)
-[18:55:22] [Server thread/INFO]: devil1012 joined the game
-[18:55:28] [Server thread/INFO]: [Not Secure] <MakithAdrees> i-
-[18:55:32] [Server thread/INFO]: [Not Secure] <MakithAdrees> i couldn't sleep
-[18:55:43] [Server thread/INFO]: [Not Secure] <devil1012> aha
-[18:55:44] [Server thread/INFO]: [Not Secure] <MakithAdrees> HOW DARE YOU ORDER YOUR KING
-[18:56:05] [Server thread/INFO]: [Not Secure] <devil1012> i... i... i am so sorry
-[18:56:16] [Server thread/INFO]: [Not Secure] <devil1012> please forgive my absurd behaviour
-[18:56:45] [Server thread/INFO]: [Not Secure] <MakithAdrees> from next time...
-[18:57:00] [Server thread/INFO]: [Not Secure] <MakithAdrees> you won't be able to feel your head on your shoulders
-[18:57:20] [Server thread/INFO]: [Not Secure] <devil1012> u can take my life if that ever happens sir please spare my life for now....
-[18:59:19] [Server thread/INFO]: [Not Secure] <MakithAdrees> you may live..
-[18:59:21] [Server thread/INFO]: [Not Secure] <MakithAdrees> for now
-[19:00:18] [Server thread/INFO]: [Not Secure] <devil1012> i am home lets go
-[19:01:09] [Server thread/INFO]: [Not Secure] <devil1012> govind house looks cool but a bit empty
-[19:01:15] [Server thread/INFO]: [Not Secure] <MakithAdrees> ik
-[19:01:21] [Server thread/INFO]: [Not Secure] <devil1012> no windows on back
-[19:01:39] [Server thread/INFO]: [Not Secure] <devil1012> needs some tnt
-[19:02:51] [Server thread/INFO]: [Not Secure] <devil1012> and why exactly there is no poach?
-[19:03:18] [Server thread/INFO]: [Not Secure] <devil1012> an entrace from water aha clever but dangerous
-[19:04:18] [Server thread/INFO]: [Not Secure] <devil1012> dem preety nice cruise
-[19:05:55] [Server thread/INFO]: [Not Secure] <devil1012> and the devil is home
-[19:06:15] [Server thread/INFO]: [Not Secure] <devil1012> things are about to get more fun
-[19:10:20] [Server thread/INFO]: [Not Secure] <devil1012> bye
-[19:10:22] [Server thread/INFO]: devil1012 lost connection: Disconnected
-[19:10:22] [Server thread/INFO]: devil1012 left the game
-[19:23:56] [Server thread/INFO]: There are 1 of a max of 20 players online: MakithAdrees
-[19:32:33] [Server thread/INFO]: MakithAdrees has made the advancement [Cover Me with Diamonds]
-[19:33:32] [Server thread/INFO]: MakithAdrees has made the advancement [Ice Bucket Challenge]
-[19:41:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[19:56:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:56:21] [Server thread/INFO]: <--[HERE]
-[19:56:23] [Server thread/INFO]: There are 1 of a max of 20 players online: MakithAdrees
-[19:56:27] [Server thread/WARN]: Horse (vehicle of MakithAdrees) moved wrongly! 0.3571310110919512
-[20:06:39] [Server thread/WARN]: Horse (vehicle of MakithAdrees) moved wrongly! 0.34918504995221156
-[20:14:27] [Server thread/INFO]: MakithAdrees lost connection: Disconnected
-[20:14:27] [Server thread/INFO]: MakithAdrees left the game
-[21:28:20] [Server thread/INFO]: Stopping the server
-[21:28:20] [Server thread/INFO]: Stopping server
-[21:28:20] [Server thread/INFO]: Saving players
-[21:28:20] [Server thread/INFO]: Saving worlds
-[21:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:03:58] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/home/c0d3astra/Minecraft_Server/minecraft_dotfile/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[13:04:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:04:02] [main/INFO]: Loaded 1290 recipes
+[13:04:02] [main/INFO]: Loaded 1399 advancements
+[13:04:03] [Server thread/INFO]: Starting minecraft server version 1.21
+[13:04:03] [Server thread/INFO]: Loading properties
+[13:04:03] [Server thread/INFO]: Default game type: SURVIVAL
+[13:04:03] [Server thread/INFO]: Generating keypair
+[13:04:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:04:03] [Server thread/INFO]: Using epoll channel type
+[13:04:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:04:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:04:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:04:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:04:03] [Server thread/INFO]: Preparing level "world"
+[13:04:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:04:04] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[13:04:04] [Server thread/INFO]: Time elapsed: 306 ms
+[13:04:04] [Server thread/INFO]: Done (1.124s)! For help, type "help"
+[13:10:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:10:06] [Server thread/INFO]: <--[HERE]
+[13:59:00] [Server thread/INFO]: Nothing changed. The player isn't banned
+[13:59:48] [Server thread/INFO]: daddiji1.1[/192.168.52.168:56698] logged in with entity id 2 at (-27.140654740847246, 100.37500084936585, -554.4290964880537)
+[13:59:48] [Server thread/INFO]: daddiji1.1 joined the game
+[14:01:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:01:26] [Server thread/INFO]: <--[HERE]
+[14:01:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:01:26] [Server thread/INFO]: <--[HERE]
+[14:01:37] [Server thread/INFO]: Teleported daddiji1.1 to 0.500000, 0.000000, 0.500000
+[14:01:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:01:55] [Server thread/INFO]: set time day<--[HERE]
+[14:01:58] [Server thread/INFO]: Expected float
+[14:01:58] [Server thread/INFO]: time set da<--[HERE]
+[14:02:04] [Server thread/INFO]: Incorrect argument for command
+[14:02:04] [Server thread/INFO]: time sat day <--[HERE]
+[14:02:09] [Server thread/INFO]: Set the time to 1000
+[14:02:24] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[14:02:24] [Server thread/INFO]: daddiji1.1 left the game
+[14:02:31] [Server thread/INFO]: daddiji1.1[/192.168.52.168:56719] logged in with entity id 3 at (15.044235533267662, 69.3754286591452, 5.06348441345755)
+[14:02:31] [Server thread/INFO]: daddiji1.1 joined the game
+[14:02:41] [Server thread/INFO]: [daddiji1.1: Set own game mode to Survival Mode]
+[14:11:06] [Server thread/INFO]: daddiji1.1 has made the advancement [What a Deal!]
+[14:13:39] [Server thread/INFO]: Villager class_1646['Fisherman'/1102, l='ServerLevel[world]', x=-139.50, y=87.00, z=-415.94] died, message: 'Fisherman was slain by Zombie'
+[14:15:55] [Server thread/INFO]: No entity was found
+[14:16:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:16:02] [Server thread/INFO]: [A[Akill daddiji1<--[HERE]
+[14:16:06] [Server thread/INFO]: No entity was found
+[14:16:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:16:08] [Server thread/INFO]: <--[HERE]
+[14:16:13] [Server thread/INFO]: daddiji1.1 was killed
+[14:16:13] [Server thread/INFO]: Killed daddiji1.1
+[14:16:32] [Server thread/INFO]: [daddiji1.1: Set own game mode to Survival Mode]
+[14:16:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:16:58] [Server thread/INFO]: kkill daddiji1.1<--[HERE]
+[14:17:07] [Server thread/INFO]: Removed 322 item(s) from player daddiji1.1
+[14:18:27] [Server thread/INFO]: Villager class_1646['Fisherman'/6391, l='ServerLevel[world]', x=-162.08, y=78.50, z=-419.70] died, message: 'Fisherman was slain by Zombie'
+[14:19:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:19:28] [Server thread/INFO]: [A[A[A[A[A[B[B<--[HERE]
+[14:19:37] [Server thread/INFO]: daddiji1.1 was killed
+[14:19:37] [Server thread/INFO]: Killed daddiji1.1
+[14:19:57] [Server thread/INFO]: [daddiji1.1: Set own game mode to Survival Mode]
+[14:21:39] [Server thread/INFO]: Villager class_1646['Fisherman'/8388, l='ServerLevel[world]', x=-175.57, y=68.94, z=-416.70] died, message: 'Fisherman burned to death'
+[14:22:15] [Server thread/INFO]: daddiji1.1 lost connection: Disconnected
+[14:22:15] [Server thread/INFO]: daddiji1.1 left the game
+[14:23:34] [Server thread/INFO]: daddiji1.1[/192.168.52.168:61870] logged in with entity id 10221 at (-205.31859644120672, 62.11076431274414, -206.69102165455573)
+[14:23:34] [Server thread/INFO]: daddiji1.1 joined the game
+[14:36:48] [Server thread/INFO]: Villager class_1646['Villager'/10483, l='ServerLevel[world]', x=-200.36, y=84.19, z=-411.66] died, message: 'Villager was slain by Zombie'
+[14:36:54] [Server thread/INFO]: Villager class_1646['Villager'/10482, l='ServerLevel[world]', x=-200.41, y=84.19, z=-412.46] died, message: 'Villager was slain by Zombie Villager'
+[14:49:36] [Server thread/INFO]: Villager class_1646['Toolsmith'/10474, l='ServerLevel[world]', x=-177.20, y=68.00, z=-434.18] died, message: 'Toolsmith was slain by Zombie'
+[14:53:56] [Server thread/INFO]: An entity is required to run this command here
+[14:54:11] [Server thread/INFO]: Teleported daddiji1.1 to -199.500000, 84.000000, -410.500000
+[14:54:11] [Server thread/WARN]: daddiji1.1 moved too quickly! -32.32169193293913,8.0,6.034830476974605
+[14:56:09] [Server thread/INFO]: Stopping the server
+[14:56:09] [Server thread/INFO]: Stopping server
+[14:56:09] [Server thread/INFO]: Saving players
+[14:56:09] [Server thread/INFO]: daddiji1.1 lost connection: Server closed
+[14:56:09] [Server thread/INFO]: daddiji1.1 left the game
+[14:56:09] [Server thread/INFO]: Saving worlds
+[14:56:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:56:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:56:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
